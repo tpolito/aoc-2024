@@ -1,4 +1,4 @@
-# aoc-2023
+# aoc-2024
 
 Scaffold day:
 
